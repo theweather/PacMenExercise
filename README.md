@@ -1,17 +1,19 @@
-# PacMen Exercise
-Week 7: PacMen Exercise
-# pacmen
-The assignment was to make a functioning button that creates a new PacMan, and another functioning button that starts all PacMen present on the screen moving.
+# Week 7: PacMen Exercise
 
-This repo is licensed via an MIT license. You can read the license terms <a href="LICENSE">here</a>.
+## So, what am I looking at here?
 
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+### The assignment was to make a functioning button that creates a new PacMan, and another functioning button that starts all PacMen present on the screen moving. When "Make One" is pushed, the new PacMan image is positioned and added to the div called "game". It's then further added to the array of PacMen, which keeps track of the velocity and position of each one. PacMen are also supposed to bounce off whatever wall they hit.
 
-Title Description of project (minimum 20 words) How to Run Roadmap of future improvements License information
+## How to Run This Project
+
+### You can run this by forking this repo to your own GitHub, and loading index.html in your browser. Click the Make One to create another PacMan, and Start Game to start them moving.
+
+## Roadmap of Future Improvements
+
+### Right now, there are no improvements planned for this particular code, but I may consider eventualy adding in code that makes each PacMan change direction whenever it hits the wall.
+
+## Licensing
+
+### This repository is licensed via an MIT license. You can read the license terms <a href="LICENSE">here</a>.
 
 <img src="PacMan1.png">
